@@ -6,7 +6,7 @@ import logging
 #import whisper
 # from urllib.parse import 
 import torch
-from transformers import AutoModelForSpeechSeq2Seq, AutoProcessor, pipeline
+# from transformers import AutoModelForSpeechSeq2Seq, AutoProcessor, pipeline
 
 app = func.FunctionApp(http_auth_level=func.AuthLevel.ANONYMOUS)
 
