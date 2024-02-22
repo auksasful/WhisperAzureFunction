@@ -15,6 +15,8 @@ numba==0.58.1
 numpy==1.23.5
 triton>=2.0.0
 openai-whisper
+transformers
+accelerate
 Pillow==9.4.0
 regex==2022.10.31
 requests==2.28.2
