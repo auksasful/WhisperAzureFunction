@@ -3,7 +3,7 @@ import logging
 # import os
 # import tempfile
 # import requests
-#import whisper
+import openai_whisper as whisper
 # from urllib.parse import quote
 
 app = func.FunctionApp(http_auth_level=func.AuthLevel.ANONYMOUS)
