@@ -11,7 +11,7 @@ future==0.18.3
 idna==3.4
 llvmlite==0.41.1
 more-itertools==9.1.0
-numba==0.59.0
+numba==0.58.1
 numpy==1.23.5
 openai-whisper @ git+https://github.com/openai/whisper.git@6dea21fd7f7253bfe450f1e2512a0fe47ee2d258
 Pillow==9.4.0
